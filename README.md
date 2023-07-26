@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+There,+I+am+Bethelehem;I+am+Full-Stack+Developer;I+am+Artificial+Intelligence+Developer.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full-Stack+Web+&+App+Developer;I+am+AI+Developer.;&center=true&width=500&height=50"></a>
 </p>
-
 <p>
 <div align="center">
   <img src="https://camo.githubusercontent.com/50decafa53f269e4c88e47320b85896b1823a4be4ac8d1913b197111e4a10da1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5675652e6a7326636f6c6f723d323232323232266c6f676f3d5675652e6a73266c6f676f436f6c6f723d344643303844266c6162656c3d">
@@ -83,7 +82,7 @@
 <br/>
 <p align="left">
   <a href="https://dreadsec.me/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bethlehem-dagnachew&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
