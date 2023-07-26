@@ -60,7 +60,7 @@
             target="_blank"/>
         </a>
     <a 
-        href="https://mailto:bethlehem.danachew@gmail.com">
+        href="mailto: bethlehem.danachew@gmail.com">
         <img 
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
             target="_blank"/>
