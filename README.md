@@ -80,12 +80,6 @@
 
 
 <br>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img width="49.5%" src="https://visitcount.itsvg.in/api?id=bethlehem-dagnachew&icon=2&color=0">
-    
-  </a>
-</p>
 
 
 
