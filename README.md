@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full-Stack+Web+&+App+Developer;I+am+AI+Developer.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full-Stack+Web+and+App+Developer;I+am+Artificial+Intelligence+Developer.;&center=true&width=500&height=50"></a>
 </p>
 <p>
 <div align="center">
@@ -22,6 +22,7 @@
 <img src="https://camo.githubusercontent.com/77fa827a46d9ef97b81fe704990d4e7d90cb8669b114b82afe55c4e96397eb16/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e61636f6e646126636f6c6f723d343441383333266c6f676f3d416e61636f6e6461266c6f676f436f6c6f723d464646464646266c6162656c3d">
 <img src="https://camo.githubusercontent.com/11abd4260687620f9dd088cd666c8533595314c7f9886fe4d044ef23418bd1f3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4178696f7326636f6c6f723d354132394534266c6f676f3d4178696f73266c6f676f436f6c6f723d464646464646266c6162656c3d">
 <img src="https://camo.githubusercontent.com/faec9d89bd2c7d47b91d988dcd0f27011c27e8191d45836cfa36bf2b3c2a92bd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6f64652e6a7326636f6c6f723d333339393333266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d">
+<img src="https://camo.githubusercontent.com/8d4b3ca01c3919271c5ea3a53d9e24c75473d733097ebce6a760937c620764b2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436170616369746f7226636f6c6f723d313139454646266c6f676f3d436170616369746f72266c6f676f436f6c6f723d464646464646266c6162656c3d">
   <img src="https://camo.githubusercontent.com/fd87758fc59a55844627fb6067a253aa4e35da509789a55be28311b0a09eb6cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6a517565727926636f6c6f723d303736394144266c6f676f3d6a5175657279266c6f676f436f6c6f723d464646464646266c6162656c3d">
   <img src="https://camo.githubusercontent.com/d3e18fa15d9f75bf4c56798b827120ea3dc498fb70b15404e86c6a7de9a0ad41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170616368652b436f72646f766126636f6c6f723d323232323232266c6f676f3d4170616368652b436f72646f7661266c6f676f436f6c6f723d453845384538266c6162656c3d">
 <img src="https://camo.githubusercontent.com/782b1fbf320f714fc832dd80f02b0db9b8765e3f7577aaa478cf7d6ba235bb33/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e564944494126636f6c6f723d323232323232266c6f676f3d4e5649444941266c6f676f436f6c6f723d373642393030266c6162656c3d">
@@ -61,8 +62,6 @@
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
             target="_blank"/>
         </a>
-       <p 
-        align="center">
         <a 
             href="https://github.com/bethlehem-dagnachew">
             <img 
@@ -71,18 +70,15 @@
                 src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
                 target="_blank"/>
         </a>
-    </p>
+      
   </p>
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Bethelehem Git Status](https://github-readme-stats.vercel.app/api?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
 
-<br/>
-<p align="left">
-  <a href="https://dreadsec.me/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bethlehem-dagnachew&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=gruvbox&hide_border=true">		  
-  </a>
-</p>
+
 <br>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
