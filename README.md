@@ -80,10 +80,13 @@
 <p align="left">
   <a href="https://dreadsec.me/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bethlehem-dagnachew&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
 <br>
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=bethlehem-dagnachew&icon=2&color=0)](https://visitcount.itsvg.in)
+</p>
 
 
 
