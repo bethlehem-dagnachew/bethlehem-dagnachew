@@ -1,35 +1,41 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-mBZTDmW/0LWfMCC6n2Cdqg3hTgRUW1XyHEeDLAMgBc9zIzUtoMyDbVZ4RJe5h6QQuBbgHfhrv8tK/RzwJMgd+RQ==" crossorigin="anonymous" />
+<h2 align="start">Hey 👋, Welcome to my page! </h2>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Web+and+App+Developer;I'm+AI+Researcher;&center=true&width=500&height=50"></a>
-</p>
+👨‍💻 I'm available for AI, mobile app, and full-stack development projects. <br>
 
+📖 Currently exploring AI, neuroscience, and mind management. <br>
+
+👯 I’m always open to collaborating on fun and innovative projects. <br>
+
+🤝 Looking for top-notch talent? You can hire me on Upwork [here](https://www.upwork.com/freelancers/~01341db4af73961f34). <br>
+
+💬 Feel free to reach out if you have any questions or need assistance.
+
+<br>
 <p>
-<div display="flex">
- <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
-</div>
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With
+
 <br>
 
-<p align="center">
+<p align="start">
   <a href="">
     <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
-        <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
-
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,firebase" />
+        <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,vite,symfony" />
 
   </a>
 </p>
 <br>
-<p align="center">
+<!-- <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,anaconda,tensorflow,vscode" />
   </a>
-</p>
-<br>
+</p> -->
 
-<p align="center">Contact me on:</p>
 
-<p align="center">
+<p align="start">Contact me on:</p>
+
+<p align="start">
 <!--     <a 
         href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/">
         <img            src="https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
@@ -50,10 +56,11 @@
   </p>
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Bethelehem Git Status](https://github-readme-stats.vercel.app/api?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
 
+
+| Most used languages                                                                 | Streaks                                                                                       |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
 
 <br>
 
