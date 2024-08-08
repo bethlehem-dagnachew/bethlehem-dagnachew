@@ -1,14 +1,14 @@
 <h2 align="start">Hey 👋, Welcome to my page! </h2>
 
-👨‍💻 I'm available for AI, mobile app, and full-stack development projects. <br>
-
-📖 Currently exploring AI, neuroscience, and mind management. <br>
+👨‍💻 I'm available for mobile app, full-stack development, and AI projects. <br>
 
 👯 I’m always open to collaborating on fun and innovative projects. <br>
 
 🤝 Looking for top-notch talent? You can hire me on Upwork [here](https://www.upwork.com/freelancers/~01341db4af73961f34). <br>
 
 💬 Feel free to reach out if you have any questions or need assistance.
+
+📖 Passionate about AI, neuroscience, and mind management. <br>
 
 <br>
 <p>
