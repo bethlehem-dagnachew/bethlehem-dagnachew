@@ -8,7 +8,7 @@
 
 💬 Feel free to reach out if you have any questions or need assistance.
 
-📖 Passionate about AI, neuroscience, and mind management. <br>
+📖 Passionate about coding, AI, neuroscience, and mind management. <br>
 
 <br>
 <p>
