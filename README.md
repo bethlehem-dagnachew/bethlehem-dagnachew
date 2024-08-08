@@ -2,7 +2,7 @@
 
 👨‍💻 I'm available for mobile app, full-stack development, and AI projects. <br>
 
-👯 I’m always open to collaborating on fun and innovative projects. <br>
+👯 I’m always open to collaborating on creative and innovative projects. <br>
 
 🤝 Looking for top-notch talent? You can hire me on Upwork [here](https://www.upwork.com/freelancers/~01341db4af73961f34). <br>
 
