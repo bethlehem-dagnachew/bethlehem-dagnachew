@@ -24,7 +24,7 @@
   <a href="">
     <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,firebase" />
-        <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,vite,symfony" />
+        <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,svelte,symfony" />
 
   </a>
 </p>
