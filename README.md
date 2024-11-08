@@ -1,4 +1,6 @@
-<h2 align="start">Hey 👋, Welcome to my page! </h2>
+<h2 align="start">Hey 👋, Welcome to My Github Zone!  </h2>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bethlehem-dagnachew&label=Profile%20views&color=0e75b6&style=flat" alt="bethelehem mulugeta" /> </p>
 
@@ -15,56 +17,42 @@
 
 <br>
 <p>
-
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With
-
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With
 <br>
-
 <p align="start">
   <a href="">
     <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,firebase" />
-        <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,svelte,symfony" />
-
+      <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,svelte,symfony" />
   </a>
 </p>
 <br>
-<!-- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,anaconda,tensorflow,vscode" />
-  </a>
-</p> -->
-
-
-<p align="start ">Contact Me:</p>
+<p align="start ">💻 Find Me On
+</p>
 
 <p align="start">
-<!--     <a 
-        href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/">
-        <img            src="https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
-            target="_blank"/>
-    </a> -->
    <a href="https://www.upwork.com/freelancers/~01341db4af73961f34">
      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   </a>
-        <a 
-            href="https://github.com/bethlehem-dagnachew">
-            <img 
-                alt="followers" 
-                title="Follow me on GitHub" 
-                src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
-                target="_blank"/>
-        </a>
-      
-  </p>
+      <a href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+  </a>
+  <a href="https://github.com/bethlehem-dagnachew">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/>
+  </a>   
+</p>
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-
-| Most used languages                                                                 | Streaks                                                                                       |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethlehem-dagnachew&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
+| Most used languages                                                                                                                     | Streaks                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bethlehem-dagnachew&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
 
 <br>
+
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=bethlehem-dagnachew&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
+
 
 
 
