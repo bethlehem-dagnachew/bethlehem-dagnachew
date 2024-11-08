@@ -22,8 +22,8 @@
 <p align="start">
   <a href="">
     <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,firebase" />
-      <img src="https://skillicons.dev/icons?i=py,angular,react,figma,laravel,svelte,symfony" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,nextjs,js,ts,py,tailwind,laravel,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=angular,react,figma,firebase,svelte,symfony,docker" />
   </a>
 </p>
 <br>
