@@ -47,11 +47,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bethlehem-dagnachew&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
 
-<br>
 
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=bethlehem-dagnachew&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
 
 
 
