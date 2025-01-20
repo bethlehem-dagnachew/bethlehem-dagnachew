@@ -33,8 +33,8 @@
 <p align="start">
    <a href="https://www.upwork.com/freelancers/~01341db4af73961f34">
      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>   </a>
-      <a href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
+<!--       <a href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/" target="_blank"> -->
+<!--     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  /> -->
   </a>
   <a href="https://github.com/bethlehem-dagnachew">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/>
