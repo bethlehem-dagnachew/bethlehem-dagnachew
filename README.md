@@ -45,7 +45,7 @@
 
 | Most used languages                                                                                                                     | Streaks                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bethlehem-dagnachew&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bethlehem-dagnachew&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=tokyonight&hide_border=true)
 
 
 
