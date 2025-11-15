@@ -1,8 +1,4 @@
-<h2 align="start">Hey 👋, Welcome to My Github Zone!  </h2>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bethlehem-dagnachew&label=Profile%20views&color=0e75b6&style=flat" alt="bethelehem mulugeta" /> </p>
+<h2 align="start">Hey There👋  </h2>
 
 
 👨‍💻 I'm available for mobile app, full-stack development, and AI projects. <br>
@@ -41,11 +37,7 @@
   </a>   
 </p>
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-| Most used languages                                                                                                                     | Streaks                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bethlehem-dagnachew&border=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=bethlehem-dagnachew&theme=tokyonight&hide_border=true)
 
 
 
